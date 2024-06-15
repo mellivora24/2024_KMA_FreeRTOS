@@ -21,8 +21,7 @@
 
 	- Một số chức năng khác:
 	  + Đóng mở cửa sổ qua Blynk IoT.
-	  + Bật quạt hút mùi bằng Blynk IoT.
-	  + Bật quạt làm mát bằng Blynk IoT.
+	  + Bật đèn bằng Blynk IoT.
 
 # Danh sách linh kiện cần mua:
  - Công tắc nhấn nhả, đèn LED, cảm biến âm thanh, cảm biến chuyển động PIR (v)
