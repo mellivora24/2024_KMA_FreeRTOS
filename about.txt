@@ -1,0 +1,35 @@
+# Các đối tượng chính trong ngôi nhà:
+	- Hệ thống bật tắt đèn (tự động/thủ công):
+	  + Hoạt động tự động: Cảm biến âm thanh & cảm biến chuyển động
+	  + Hoạt động thủ công: công tắc & blynk
+	    => Đồng bộ.
+
+	- Hệ thống cảnh báo quá nhiệt:
+	  + Bật quạt làm mát.
+	  + Bật còi báo động.
+	  + Thông báo nhiệt qua Blynk IoT.
+
+	- Hệ thống cảnh báo rò rỉ khí GAS: 
+	  + Bật quạt làm mát nhà bếp (đẩy) và quạt hút mùi (hút).
+	  + Bật còi báo động.
+	  + Mở cửa sổ bằng servo.
+	  + Thông báo nồng độ khí GAS qua Blynk IoT.
+
+	- UI - màn hình LCD:
+	  + Hiển thị nhiệt độ.
+	  + Hiển thị nồng độ khí GAS.
+
+	- Một số chức năng khác:
+	  + Đóng mở cửa sổ qua Blynk IoT.
+	  + Bật quạt hút mùi bằng Blynk IoT.
+	  + Bật quạt làm mát bằng Blynk IoT.
+
+# Danh sách linh kiện cần mua:
+ - Công tắc nhấn nhả, đèn LED, cảm biến âm thanh, cảm biến chuyển động PIR (v)
+ - Quạt mini (2) - MOS (2), còi báo động, cảm biến nhiệt độ (v)
+ - Cảm biến khí GAS (v)
+ - Servo	(v)
+ - Màn hình LCD (v)
+ - Dây kết nối  (v)
+ - ESP32        (v)
+ - Phíp đồng    (v)
